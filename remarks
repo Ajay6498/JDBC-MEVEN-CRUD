@@ -1,0 +1,8 @@
+jdbc_maven_demo
+   src/main/java ----> we are going to write--> source code here
+   src/test/java ----> we are going to write test cases --> unit test cases/whitebox test cases
+   jre system libs ---> java provided libs
+   maven dependencies --> mysql libs---> maven dependencies
+   src  ---> folder structure
+   target --> compiled class files/ war[web archive]/jar [java archive]
+   pom.xml --> project object model --> we are going to specificy project dependenecies here...
